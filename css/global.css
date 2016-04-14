@@ -5,6 +5,8 @@ li {
 	margin: 0 !important;
 }
 
-.container {
-	margin-bottom: 150px;
+/* Other Styling */
+
+.thumbnail {
+	margin: 10px 0px;
 }
