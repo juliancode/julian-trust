@@ -1,0 +1,10 @@
+/* Bootstrap Override Styles */
+
+li {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.container {
+	margin-bottom: 150px;
+}
